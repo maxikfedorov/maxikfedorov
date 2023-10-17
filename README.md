@@ -3,8 +3,7 @@
 
 ### About me:
 
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="50px">
-My name is Maxim Fedorov. I am an aspiring web developer specialising in creating complex information systems. My goal is to become a designer and builder of complex information systems and achieve expert qualification in each of the development areas.
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="50px">. My name is Maxim Fedorov. I am an aspiring web developer specialising in creating complex information systems. My goal is to become a designer and builder of complex information systems and achieve expert qualification in each of the development areas.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
