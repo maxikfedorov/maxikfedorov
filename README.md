@@ -1,6 +1,6 @@
 # Greetings to all developers! 
 ---
-### :desktop_computer:About me:
+### :cowboy_hat_face:About me:
 
 <!-- <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="50px"> -->
 
