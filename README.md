@@ -10,12 +10,11 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-```
+
 - 🎓 Graduated with honours from the Digital Chair programme in Frontend IT Application Development
 - 📚 Co-author of the MIREA textbook on "Transaction Processing Technologies for Client-Server Applications" discipline
-- 🖥 Experience in IS design - defining functional and technical requirements, IS architecture,
-     models of automated processes and database structure
-```
+- 🖥 Experience in IS design - defining functional and technical requirements, IS architecture, models of automated processes and database structure
+
 
 ### 🤝 Social media:
 
