@@ -1,19 +1,18 @@
-# Привет, меня зовут Максим!
-
+# Hi, my name is Maxim!
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
-Привет! Меня зовут Максим Федоров, я начинающий веб-разработчик, специализирующийся на создании сложных информационных систем. Моя цель - стать проектировщиком и конструктором сложных информационных систем и достичь экспертной квалификации в каждой из областей разработки.
+Hi! My name is Maxim Fedorov, I am an aspiring web developer specialising in creating complex information systems. My goal is to become a designer and builder of complex information systems and achieve expert qualification in each of the development areas.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- 🎓 С отличием закончил программу Цифровой Кафедры по направлению «Фронтенд-разработка ИТ-приложений»
-- 📚 Соавтор учебного пособия МИРЭА по дисциплине «Технологии обработки транзакций клиент-серверных приложений»
-- 🖥 Опыт проектирования ИС – определение функциональных и технических требований, архитектуры ИС, моделей автоматизируемых процессов и структуры БД
+- 🎓 Graduated with honours from the Digital Chair programme in Frontend IT Application Development
+- 📚 Co-author of the MIREA textbook on "Transaction Processing Technologies for Client-Server Applications" discipline
+- 🖥 Experience in IS design - defining functional and technical requirements, IS architecture, models of automated processes and database structure
 ---
 
 ### 🤝 Социальные сети:
@@ -33,10 +32,9 @@
   </a>
 </div>
 
-
 ---
 
-### 💻 Основные технологии:
+### 💻 Main technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -50,7 +48,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-### 🗃️ Базы данных:
+### 🗃️ Databases:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -58,7 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 </div>
 
-### 📚 Дополнительные технологии:
+### 📚 Complementary technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -66,7 +64,7 @@
  
 </div>
 
-### 🛠 Инструменты:
+### 🛠 Instruments:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
@@ -78,7 +76,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
