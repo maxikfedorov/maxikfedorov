@@ -10,20 +10,11 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-Конечно, Максим. В файлах README, которые используют разметку Markdown, вы можете использовать символ минуса `-` или звездочку `*` для создания маркированных списков. Ваш текст будет выглядеть следующим образом:
-
 ```
-- 🎓 Окончил с отличием программу Digital Chair по направлению Frontend IT Application Development
-- 📚 Соавтор учебника МИРЭА по дисциплине "Технологии обработки транзакций для клиент-серверных приложений"
-- 🖥 Опыт в проектировании ИС - определение функциональных и технических требований, архитектура ИС, модели автоматизированных процессов и структура базы данных
-```
-
-Этот текст будет отображаться в вашем файле README как маркированный список.
-
 - 🎓 Graduated with honours from the Digital Chair programme in Frontend IT Application Development
 - 📚 Co-author of the MIREA textbook on "Transaction Processing Technologies for Client-Server Applications" discipline
 - 🖥 Experience in IS design - defining functional and technical requirements, IS architecture, models of automated processes and database structure
----
+```
 
 ### 🤝 Social media:
 
