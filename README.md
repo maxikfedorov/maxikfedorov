@@ -3,7 +3,7 @@
 
 ### :man_technologist: About me:
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="30px">.
 My name is Maxim Fedorov. I am an aspiring web developer specialising in creating complex information systems. My goal is to become a designer and builder of complex information systems and achieve expert qualification in each of the development areas.
 
 <p align="center">
@@ -15,7 +15,7 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 - 🖥 Experience in IS design - defining functional and technical requirements, IS architecture, models of automated processes and database structure
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
   <a href="https://instagram.com/maxikfedorov" target="_blank">
