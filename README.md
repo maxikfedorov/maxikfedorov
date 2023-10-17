@@ -57,7 +57,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="assets/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/8979240?s=200&v=4" title="Tabby Terminal" alt="Tabby Terminal" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="assets/perplexity_ai.svg" title="Perplexity AI" alt="Perplexity AI" width="40" height="40"/>&nbsp;
   <img src="assets/chat_gpt.svg" title="Chat GPT" alt="Chat GPT" width="40" height="40"/>&nbsp;
