@@ -1,7 +1,7 @@
 # Greetings to all developers!
 ---
 
-### :man_technologist: About me:
+### About me:
 
 <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="30px">.
 My name is Maxim Fedorov. I am an aspiring web developer specialising in creating complex information systems. My goal is to become a designer and builder of complex information systems and achieve expert qualification in each of the development areas.
