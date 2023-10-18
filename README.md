@@ -78,17 +78,10 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 
 ### ⚙️ GitHub statistics:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=maxikfedorov&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxikfedorov&layout=compact&theme=vision-friendly-dark" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github stats" src="https://github-readme-stats.vercel.app/api?username=maxikfedorov&show_icons=true&theme=dracula" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=maxikfedorov&theme=dark&background=000000" alt="webDev's Github stats" style="width: 100%; max-width: 600px; margin-bottom: 20px;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxikfedorov&layout=compact&theme=vision-friendly-dark" alt="webDev's Github Languages" style="width: 100%; max-width: 600px; margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxikfedorov&show_icons=true&theme=dracula" alt="webDev's Github stats" style="width: 100%; max-width: 600px;" />
+</div>
+
 
