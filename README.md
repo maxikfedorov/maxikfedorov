@@ -89,3 +89,5 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
   </tr>
 </table>
 
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=maxikfedorov&show_icons=true&theme=dracula)
+
