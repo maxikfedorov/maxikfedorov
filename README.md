@@ -86,9 +86,9 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
   <img height="195px" align="right" alt="webDev's Github stats" src="https://github-readme-stats.vercel.app/api?username=maxikfedorov&show_icons=true&theme=dracula" />
 </p>
 
-<p align="center" style="margin-top: 1em;">
+<p align="center" style="margin-top: 10px;">
 
-  <img height="195px" align="" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxikfedorov&layout=compact&theme=vision-friendly-dark" style="margin-top: 1em;" />
+  <img height="195px" align="" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxikfedorov&layout=compact&theme=vision-friendly-dark" style="margin-top: 10px;" />
 
 </p>
 
