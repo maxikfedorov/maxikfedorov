@@ -78,7 +78,7 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 
 ### ⚙️ GitHub statistics:
 
-<table>
+<table style="border: none;">
   <tr>
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=maxikfedorov&theme=dark&background=000000" alt="webDev's Github stats" />
@@ -91,6 +91,7 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
     </td>
   </tr>
 </table>
+
 
 
 
