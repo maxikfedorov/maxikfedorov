@@ -81,19 +81,17 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 <p align="left">
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=maxikfedorov&theme=dark&background=000000" alt="webDev's Github stats" />
 </p>
+
 <p align="left">
   <img height="195px" align="right" alt="webDev's Github stats" src="https://github-readme-stats.vercel.app/api?username=maxikfedorov&show_icons=true&theme=dracula" />
       
 </p>
 
-<p align="center" margin-top=1em>
-     <img height="195px" align="" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxikfedorov&layout=compact&theme=vision-friendly-dark" />
+<p align="center" style="margin-top: 1em;">
+
+  <img height="195px" align="" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxikfedorov&layout=compact&theme=vision-friendly-dark" />
+
 </p>
-
-
-
-
-
 
 
 
