@@ -76,7 +76,7 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 
 ---
 
-###📘 My Top Projects
+### 📘 My Top Projects
 
   <p align="left">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
