@@ -91,7 +91,7 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 </table>
 
 <p align="center">
-      <img height="195px" align="right" alt="webDev's Github stats" src="https://github-readme-stats.vercel.app/api?username=maxikfedorov&show_icons=true&theme=dracula" />
+      <img height="195px" alt="webDev's Github stats" src="https://github-readme-stats.vercel.app/api?username=maxikfedorov&show_icons=true&theme=dracula" />
 </p>
 
 
