@@ -85,8 +85,6 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
  </a>
  <a href="https://github.com/maxikfedorov/MusicStore-DB"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=MusicStore-DB&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MusicStore-DB"></a> <a href="https://github.com/maxikfedorov/Apache-PHP-PostgreSQL"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=Apache-PHP-PostgreSQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Apache-PHP-PostgreSQL">
  </a> 
- <a href="https://github.com/maxikfedorov/NODE-API"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=NODE-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="NODE-API">
- </a> 
  <a href="https://github.com/maxikfedorov/Python-Statistics"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=Python-Statistics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Python-Statistics">
  </a> 
 </p>
