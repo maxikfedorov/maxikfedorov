@@ -79,7 +79,7 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 ### 📘 My Top Projects
 
 <p align="left"> 
-  <a href="https://github.com/maxikfedorov/EXPRESS.JS-API"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=SoundStudio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="EXPRESS.JS-API">
+  <a href="https://github.com/maxikfedorov/EXPRESS.JS-API"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=EXPRESS.JS-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="EXPRESS.JS-API">
  </a>
  <a href="https://github.com/maxikfedorov/SoundStudio"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=SoundStudio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SoundStudio">
  </a>
