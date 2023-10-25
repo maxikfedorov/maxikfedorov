@@ -79,13 +79,20 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 ### 📘 My Top Projects
 
 <p align="left"> 
-  <a href="https://github.com/maxikfedorov/EXPRESS.JS-API"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=EXPRESS.JS-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="EXPRESS.JS-API">
+ 
+ <a href="https://github.com/maxikfedorov/EXPRESS.JS-API"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=EXPRESS.JS-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="EXPRESS.JS-API">
  </a>
+ 
  <a href="https://github.com/maxikfedorov/SoundStudio"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=SoundStudio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SoundStudio">
  </a>
- <a href="https://github.com/maxikfedorov/MusicStore-DB"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=MusicStore-DB&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MusicStore-DB"></a> <a href="https://github.com/maxikfedorov/Apache-PHP-PostgreSQL"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=Apache-PHP-PostgreSQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Apache-PHP-PostgreSQL">
+ 
+ <a href="https://github.com/maxikfedorov/MusicStore-DB"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=MusicStore-DB&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MusicStore-DB">
  </a> 
- <a href="https://github.com/maxikfedorov/Python-Statistics"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=Python-Statistics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Python-Statistics">
+ 
+ <a href="https://github.com/maxikfedorov/Apache-PHP-PostgreSQL"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=Apache-PHP-PostgreSQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Apache-PHP-PostgreSQL">
+ </a>
+ 
+ <a href="https://github.com/maxikfedorov/CodeCollector"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=CodeCollector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CodeCollector">
  </a> 
 </p>
 
