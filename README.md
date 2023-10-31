@@ -11,7 +11,7 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 </p>
 
 
-- 🎓 Graduated with honours from the Digital Chair programme in Frontend IT Application Development
+- 🎓 Graduated with honours from the Digital Department (Цифровая Кафедра) programme in Frontend IT Application Development
 - 📚 Co-author of the MIREA textbook on "Transaction Processing Technologies for Client-Server Applications" discipline
 - 🖥 Experience in IS design - defining functional and technical requirements, IS architecture, models of automated processes and database structure
 
