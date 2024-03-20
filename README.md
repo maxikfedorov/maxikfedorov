@@ -89,7 +89,13 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
   <a href="https://github.com/maxikfedorov/Apache-PHP-PostgreSQL"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=Apache-PHP-PostgreSQL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Apache-PHP-PostgreSQL">
  </a>
   <a href="https://github.com/maxikfedorov/CodeCollector"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=CodeCollector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CodeCollector">
- </a> 
+ </a>
+
+ <a href="https://github.com/maxikfedorov/Diet-Microservise"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=Diet-Microservise&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Diet-Microservise">
+ </a>
+
+
+ 
  
 </p>
 
