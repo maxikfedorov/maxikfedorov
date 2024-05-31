@@ -53,12 +53,10 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 ---
 
 ### 📘 My Top Projects
-<div align="center">
-  <a href="https://github.com/maxikfedorov/JSON-DB-WEB-Interface" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=JSON-DB-WEB-Interface&theme=vision-friendly-dark" alt="JSON-DB-WEB-Interface">
-  </a>
-  <a href="https://github.com/maxikfedorov/WEB-DOC-FLOW" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=WEB-DOC-FLOW&theme=vision-friendly-dark" alt="WEB-DOC-FLOW">
+<div align="center" width="100%>
+
+  <a href="https://github.com/maxikfedorov/WEB-DOC-FLOW" target="_blank" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=WEB-DOC-FLOW&theme=vision-friendly-dark" alt="WEB-DOC-FLOW" width="80%>
   </a>
 </div>
 
