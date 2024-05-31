@@ -54,6 +54,40 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 
 ### 📘 My Top Projects
 
+<div align="center">
+  <a href="https://github.com/maxikfedorov/WEB-DOC-FLOW" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=WEB-DOC-FLOW&theme=vision-friendly-dark" alt="WEB-DOC-FLOW">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/maxikfedorov/JSON-DB-WEB-Interface" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=JSON-DB-WEB-Interface&theme=vision-friendly-dark" alt="JSON-DB-WEB-Interface">
+  </a>
+  <a href="https://github.com/maxikfedorov/Diet-Microservise" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=Diet-Microservise&theme=vision-friendly-dark" alt="Diet-Microservise">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/maxikfedorov/EXPRESS.JS-API" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=EXPRESS.JS-API&theme=vision-friendly-dark" alt="EXPRESS.JS-API">
+  </a>
+  <a href="https://github.com/maxikfedorov/CodeCollector" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=CodeCollector&theme=vision-friendly-dark" alt="CodeCollector">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/maxikfedorov/Web-Diet-Recomedation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=Web-Diet-Recomedation&theme=vision-friendly-dark" alt="Web-Diet-Recomedation">
+  </a>
+  <a href="https://github.com/maxikfedorov/MusicStore-DB" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=MusicStore-DB&theme=vision-friendly-dark" alt="MusicStore-DB">
+  </a>
+</div>
+
+
 ### ⚙️ GitHub statistics:
 <table>
   <tr>
