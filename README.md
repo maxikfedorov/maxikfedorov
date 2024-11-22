@@ -54,47 +54,6 @@ My name is Maxim Fedorov. I am an aspiring web developer specialising in creatin
 
 ---
 
-### 📘 My Top Projects
-<div align="center">
-  <a href="https://github.com/maxikfedorov/WEB-DOC-FLOW" target="_blank" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=WEB-DOC-FLOW&theme=vision-friendly-dark" alt="WEB-DOC-FLOW" width="80%" height="50%">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/maxikfedorov/EXPRESS.JS-API" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=EXPRESS.JS-API&theme=vision-friendly-dark" alt="EXPRESS.JS-API">
-  </a>
-  <a href="https://github.com/maxikfedorov/CodeCollector" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=CodeCollector&theme=vision-friendly-dark" alt="CodeCollector">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/maxikfedorov/Web-Diet-Recomedation" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=Web-Diet-Recomedation&theme=vision-friendly-dark" alt="Web-Diet-Recomedation">
-  </a>
-  <a href="https://github.com/maxikfedorov/MusicStore-DB" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maxikfedorov&repo=MusicStore-DB&theme=vision-friendly-dark" alt="MusicStore-DB">
-  </a>
-</div>
-
-
-### ⚙️ GitHub statistics:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=maxikfedorov&show_icons=true&theme=vision-friendly-dark">
-    </td>
-    <td>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=maxikfedorov&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxikfedorov&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
 
 
 
