@@ -1,4 +1,7 @@
 # Greetings to all developers! 
+## CV/Резюме
+[View my CV here](./Федоров%20Максим%20-%20резюме.pdf) / [Посмотреть моё резюме здесь](./Федоров%20Максим%20-%20резюме.pdf)
+
 ---
 ### :cowboy_hat_face:About me:
 
